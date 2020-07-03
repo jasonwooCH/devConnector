@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://swolehee:RdK4dwRpA51iMGOq@devconnector.semxp.mongodb.net/test?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://swolehee:RdK4dwRpA51iMGOq@devconnector.semxp.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken"
 }
